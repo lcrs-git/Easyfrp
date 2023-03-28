@@ -20,7 +20,7 @@
 
 `remote_port = 6000#远程端口`
 
-## 10M不限流量frp节点一，华东地区。扫码搞定，有问题@我
+### 10M不限流量frp节点一，华东地区。扫码搞定，有问题@我
 ![kuaifaka](http://api.kuaifaka.com/m/qrcode?url=https://pr.kuaifaka.net/item/15e9x2mJ)
 
 
