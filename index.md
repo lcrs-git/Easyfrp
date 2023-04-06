@@ -6,12 +6,13 @@
 [common] 
 server_addr = s1.frp.asia
 server_port = 7004
-token = loz7wS
+token = :)
 ```
-修改好配置文件，运行客户端就可以使用了！推荐使用stcp方式连接，快来薅羊毛！
+修改好配置文件，运行客户端就可以使用了！推荐使用stcp方式连接！
 
-#### 薅的开心的话，还不打个赏，才能一直薅嘛🤭
-![image](https://user-images.githubusercontent.com/102269230/228402728-e31e77ec-5e95-4375-b782-5573a4d99718.png)
+#### 原价19.9/月，现在9.9/月，限量，先到先得！🤭
+
+<img width="134" alt="企业微信截图_1680747208734" src="https://user-images.githubusercontent.com/102269230/230255375-849667da-a192-4ddf-90c1-88de0353b75e.png">
 
 
 
