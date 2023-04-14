@@ -55,7 +55,7 @@ bind_port = 6000
 
 现在可以通过访问本地127.0.0.1的6000端口访问到内网机器SSH 了。
 
-[查看更多frp文档](https://gofrp.org/docs/)
+[给我留言](https://github.com/lcrs-git/frpAsia/issues/1) &emsp; [ 更多frp文档](https://gofrp.org/docs/)
 
 
 
