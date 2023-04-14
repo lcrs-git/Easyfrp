@@ -71,4 +71,4 @@ bind_port = 6000
 
 
 [ 欢迎打赏！🤭](https://user-images.githubusercontent.com/102269230/230557271-3c850342-5a97-46e8-b178-81fea0692334.png)以帮助我们维护更多的frp节点！
-Copyright@2023 frpAsia 
+©2023 frpAsia 
