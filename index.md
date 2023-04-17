@@ -69,7 +69,7 @@ bind_port = 6000
 
 ![thisisapicture](https://tse2-mm.cn.bing.net/th/id/OIP-C.-_Hy7CugwLBZ-wXn4AMFIAHaCk?w=330&h=121&c=7&r=0&o=5&dpr=1.3&pid=1.7)
 
-[ 打赏一下](https://user-images.githubusercontent.com/102269230/230557271-3c850342-5a97-46e8-b178-81fea0692334.png)来帮助我们维护和开通更多frp服务节点。
+[ 打赏我](https://user-images.githubusercontent.com/102269230/230557271-3c850342-5a97-46e8-b178-81fea0692334.png)帮助我们维护和开通更多frp服务节点。
 
-©2023 frpAsia &ensp; [吐槽](https://github.com/lcrs-git/frpAsia/issues/1)&emsp;
+©2023 frpAsia &ensp; [来吐槽](https://github.com/lcrs-git/frpAsia/issues/1)&emsp;
 
