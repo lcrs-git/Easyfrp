@@ -68,5 +68,8 @@ bind_port = 6000
 ![thisisapicture](https://tse2-mm.cn.bing.net/th/id/OIP-C.-_Hy7CugwLBZ-wXn4AMFIAHaCk?w=330&h=121&c=7&r=0&o=5&dpr=1.3&pid=1.7)
 
 
-[允许打赏!](https://github.com/lcrs-git/frpAsia/blob/main/upload.md)
 ©2023 frpAsia 
+
+<img width="100" alt="微信打赏" src="https://user-images.githubusercontent.com/102269230/230557271-3c850342-5a97-46e8-b178-81fea0692334.png"> &nbsp;<img width="100" alt="支付宝打赏" src="https://user-images.githubusercontent.com/102269230/232683758-c78f212c-d3c8-4c09-9fac-60464bfc8b8a.png">
+
+
