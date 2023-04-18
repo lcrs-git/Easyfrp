@@ -72,6 +72,6 @@ bind_port = 6000
 
 <img width="100" alt="微信打赏" src="https://user-images.githubusercontent.com/102269230/230557271-3c850342-5a97-46e8-b178-81fea0692334.png"> &nbsp;<img width="101" alt="支付宝打赏" src="https://user-images.githubusercontent.com/102269230/232683758-c78f212c-d3c8-4c09-9fac-60464bfc8b8a.png">
 
-&ensp;&ensp;&ensp;`鲁迅说:打赏不打赏的都是缘分`
+  `鲁迅说:打赏不打赏的都是缘分`
 
 
