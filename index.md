@@ -61,7 +61,8 @@ bind_port = 6000
 
 
 ---
-<font size=3>免费frp仅供学习和研究，不得用于非法用途！保留所有权利。</font>
+
+<font size=1 >免费frp仅供学习和研究，不得用于非法用途！保留所有权利。</font>
 
 <img width="300" alt="frp" src="https://tse2-mm.cn.bing.net/th/id/OIP-C.-_Hy7CugwLBZ-wXn4AMFIAHaCk?w=330&h=121&c=7&r=0&o=5&dpr=1.3&pid=1.7">
     
