@@ -70,8 +70,9 @@ bind_port = 6000
 
 ©2023 frpAsia 
 
-<img width="100" alt="微信打赏" src="https://user-images.githubusercontent.com/102269230/230557271-3c850342-5a97-46e8-b178-81fea0692334.png"> &nbsp;<img width="101" alt="支付宝打赏" src="https://user-images.githubusercontent.com/102269230/232683758-c78f212c-d3c8-4c09-9fac-60464bfc8b8a.png">
 
-  `鲁迅说:微信和支付宝都可以打赏`
+
+[发电方式](https://github.com/lcrs-git/frpAsia/blob/main/donate/rcode.md)
+
 
 
