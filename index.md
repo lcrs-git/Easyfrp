@@ -72,7 +72,7 @@ bind_port = 6000
 
 
 
-[发电方式](https://github.com/lcrs-git/frpAsia/blob/main/donate/rcode.md)
+[发电厂入口：](https://github.com/lcrs-git/frpAsia/blob/main/donate/rcode.md)
 
 
 
