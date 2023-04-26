@@ -68,5 +68,5 @@ bind_port = 6000
 <font size=1 >©2023 frpAsia 免费frp仅供学习和研究，不得用于非法用途！保留所有权利。</font>
 
 <img width="60" alt="微信打赏" src="https://user-images.githubusercontent.com/102269230/230557271-3c850342-5a97-46e8-b178-81fea0692334.png"> &ensp;&ensp;&emsp;<img width="60" alt="支付宝打赏" src="https://user-images.githubusercontent.com/102269230/232683758-c78f212c-d3c8-4c09-9fac-60464bfc8b8a.png">
-<font size=1>允许发电！</font>
+<font size=1>发电通道！</font>
 
