@@ -1,4 +1,4 @@
-发不发电的纯靠爱心![6771887d-c0d8-4d19-a8ba-0df67f1b6019](https://user-images.githubusercontent.com/102269230/232997274-436b5d04-38e7-42a4-a49c-d5eb1f3bab1d.png)
+电必须要发![6771887d-c0d8-4d19-a8ba-0df67f1b6019](https://user-images.githubusercontent.com/102269230/232997274-436b5d04-38e7-42a4-a49c-d5eb1f3bab1d.png)
 
 <img width="100" alt="微信打赏" src="https://user-images.githubusercontent.com/102269230/230557271-3c850342-5a97-46e8-b178-81fea0692334.png"> 
     
