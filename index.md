@@ -1,5 +1,5 @@
 
-#### 免费frp节点①（华东地区）
+#### 免费frp节点①（大陆地区）
 你只需要修改frpc.ini 中的服务器地址以及端口等，例如服务器地址 s1.frp.asia 端口7004 
 
 ```
@@ -57,7 +57,7 @@ bind_port = 6000
 现在可以通过访问本地127.0.0.1的6000端口访问到内网机器SSH 了。
 
 [ 更多frp文档](https://gofrp.org/docs/)
-#### 免费frp节点②（增加中...）
+#### 节点增加中...
 
 
 ---
@@ -67,6 +67,5 @@ bind_port = 6000
 
 <font size=1 >©2023 frpAsia 免费frp仅供学习和研究，不得用于非法用途！保留所有权利。</font>
 
-<img width="60" alt="微信打赏" src="https://user-images.githubusercontent.com/102269230/230557271-3c850342-5a97-46e8-b178-81fea0692334.png"> &ensp;&ensp;&emsp;<img width="60" alt="支付宝打赏" src="https://user-images.githubusercontent.com/102269230/232683758-c78f212c-d3c8-4c09-9fac-60464bfc8b8a.png">
 <font size=1>发电通道！</font>
 
