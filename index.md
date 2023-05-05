@@ -67,5 +67,5 @@ bind_port = 6000
 
 <font size=1 >©2023 frpAsia 免费frp仅供学习和研究，不得用于非法用途！保留所有权利。</font>
 
-<font size=1>发电通道！</font>
+[->](https://github.com/lcrs-git/frpAsia/issues/1)<font size=1>留个狠话</font> 
 
