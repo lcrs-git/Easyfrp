@@ -22,25 +22,25 @@ token = loz7wS
 frps.ini 内容如下：
 
 [common]
-bind_port = 7000
+bind_port = 7004
 在需要暴露到外网的机器上部署 frpc，且配置如下：
 ```
 [common]
-server_addr = x.x.x.x
-server_port = 7000
+server_addr = s1.frp.asia
+server_port = 7004
 
 [secret_ssh]
 type = stcp
 # 只有 sk 一致的用户才能访问到此服务
-sk = abcdefg
+sk = loz7wS
 local_ip = 127.0.0.1
 local_port = 22
 ```
 在想要访问内网服务的机器上也部署 frpc，且配置如下：
 ```
 [common]
-server_addr = x.x.x.x
-server_port = 7000
+server_addr = s1.frp.asia
+server_port = 7004
 
 [secret_ssh_visitor]
 type = stcp
@@ -48,7 +48,7 @@ type = stcp
 role = visitor
 # 要访问的 stcp 代理的名字
 server_name = secret_ssh
-sk = abcdefg
+sk = loz7wS
 # 绑定本地端口用于访问 SSH 服务
 bind_addr = 127.0.0.1
 bind_port = 6000
